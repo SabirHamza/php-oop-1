@@ -18,7 +18,7 @@ class Movie {
 
     public function __construct(
         string $_moviename,
-        string $_relase,
+        int $_relase,
         string $_filmdirector,
     )
     {
